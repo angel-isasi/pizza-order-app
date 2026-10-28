@@ -1,0 +1,25 @@
+{
+  "name": "pizza-order-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx,css,html}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angel-isasi/pizza-order-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/angel-isasi/pizza-order-app/issues"
+  },
+  "homepage": "https://github.com/angel-isasi/pizza-order-app#readme",
+  "devDependencies": {
+    "prettier": "^3.9.10"
+  }
+}
